@@ -2,9 +2,9 @@
 function randomInteger() { 
     return Math.floor(Math.random() * 30);
 }
-randomInteger();
-var random = randomInteger();
-console.log(random);
+
+
+console.log(randomInteger());
 
 //Only change code above this line
 
