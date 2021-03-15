@@ -13,13 +13,13 @@ function mathTest(x,y) {
     //Only change code above this line
     
 }
-//var result = mathTest(2,2);
-//var result = mathTest(-2,2);
-//var result = mathTest(2,-2);
-//var result = mathTest(2,8);
-//var result = mathTest(3,3);
-var result = mathTest(0,0);
-console.log(result);
+
+console.log(mathTest(2,2));
+console.log(mathTest(-2,2));
+console.log(mathTest(2,-2));
+console.log(mathTest(2,8));
+console.log(mathTest(3,3));
+console.log(mathTest(0,0));
 
 //Only change code above this line
 
