@@ -17,6 +17,7 @@ function function2() {
     console.log(result);
 }
 
+
 function1();
 function2();
 
