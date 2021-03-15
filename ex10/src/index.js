@@ -23,5 +23,4 @@ console.log(result);
 
 //Only change code above this line
 
-
 module.exports = mathTest;
