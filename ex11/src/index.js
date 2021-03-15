@@ -13,6 +13,7 @@ function mathTest(x,y) {
     //Only change code above this line
     
 }
+
 //var result = mathTest(2,2);
 //var result = mathTest(-2,2);
 //var result = mathTest(2,-2);
