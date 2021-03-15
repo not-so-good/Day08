@@ -5,6 +5,7 @@ function randomInteger() {
 randomInteger();
 var random = randomInteger();
 console.log(random);
+
 //Only change code above this line
 
 module.exports = randomInteger;
